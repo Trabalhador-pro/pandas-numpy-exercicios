@@ -18,6 +18,25 @@ Este repositório documenta minha jornada prática em **Análise de Dados com Py
 
 ---
 
+## Como usar este repositório
+
+Você pode usar este material de 3 formas:
+
+### 1. Estudo guiado
+Siga os arquivos em ordem numérica:
+
+### 2. Prática
+- Leia o enunciado
+- Tente resolver sozinho
+- Compare sua solução com as minhas 
+
+### 3. Revisão
+Use como referência rápida, tipo:
+- `groupby`
+- `pivot_table`
+- `merge`
+- `fillna`
+---
 ## Evolução do aprendizado
 
 Os exercícios seguem uma progressão:
@@ -31,7 +50,6 @@ Os exercícios seguem uma progressão:
 7. Merge e análise entre tabelas
 
 ---
-
 ## O que você vai encontrar aqui
 
 ✔ Exercícios práticos  
@@ -39,15 +57,14 @@ Os exercícios seguem uma progressão:
 ✔ Código organizado e progressivo  
 ✔ Aplicação direta para o mercado  
 
+## 🤝 Contribuição
+
+Se você também está aprendendo:
+- Sinta-se livre para usar os exercícios
+- Adaptar
+- Melhorar soluções
+
 ---
+## 👨‍💻 Autor
 
-## Estrutura
-
-```bash
-01_numpy_basico/
-02_pandas_basico/
-03_condicoes/
-04_analise/
-05_manipulacao/
-06_tratamento/
-07_merge/
+Desenvolvido como parte da minha jornada para me tornar um **Analista de Dados**.
